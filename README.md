@@ -18,4 +18,17 @@ O objetivo foi explorar como sistemas de CRM podem auxiliar empresas a compreend
 
 ## • Curadoria de Fontes
 
-Foram utilizados materiais como vídeos, 
+1. Salesforce – What is SaaS CRM? Your Complete Guide  
+https://www.salesforce.com/blog/what-is-saas-crm/
+
+2. Salesforce – What Is CRM (Customer Relationship Management)? 
+https://www.salesforce.com/blog/what-is-saas-crm/
+
+3. RD Station – Saiba o que é Automação de Marketing e como fazer na prática
+https://www.rdstation.com/blog/marketing/automacao-marketing/
+
+4. Forbes - 10 Best CRM Software Of 2026
+https://www.forbes.com/advisor/business/software/best-crm-software/
+
+5. Artigos acadêmicos sobre Customer Relationship Management
+
