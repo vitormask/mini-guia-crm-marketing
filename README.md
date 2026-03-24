@@ -249,6 +249,7 @@ Em um mercado globalizado e altamente competitivo, as empresas precisam evoluir 
 --------------------------------------------------------------------------------
 ## 2. Conceitos Principais
 Para dominar a integração, é preciso entender os pilares fundamentais:
+
 CRM como Capacidade Organizacional: É a combinação de sistemas, processos e pessoas para criar e manter relacionamentos lucrativos
 .
 Automação de Marketing: O uso de algoritmos para executar tarefas repetitivas (como envio de e-mails e gestão de leads), permitindo que a equipe foque em atividades estratégicas
