@@ -243,87 +243,291 @@ Exemplo de melhoria de prompt:
 ## 1. Introdução
 
 
-Em um mercado globalizado e altamente competitivo, as empresas precisam evoluir da centralidade no produto para a centralidade no cliente. O **_Customer Relationship Management_** (CRM) surge não apenas como um software, mas como uma estratégia de negócios que utiliza a tecnologia para organizar e automatizar os processos de Marketing, Vendas e Atendimento. A integração dessa estratégia com ferramentas de Automação de Marketing permite que as organizações gerenciem relacionamentos lucrativos de forma escalável e personalizada
+Em um mercado globalizado e altamente competitivo, as empresas precisam evoluir da centralidade no produto para a centralidade no cliente. O **_Customer Relationship Management_** (CRM) surge não apenas como um software, mas como uma estratégia de negócios que utiliza a tecnologia para organizar e automatizar os processos de Marketing, Vendas e Atendimento.
 
+
+<p align="center">
+  <img src="mapa-mental-miniguiacrm.png" width="1000">
+</p>
+
+
+A integração dessa estratégiacom ferramentas de Automação de Marketing permite que as organizações gerenciem relacionamentos lucrativos de forma escalável e personalizada.
 
 --------------------------------------------------------------------------------
+
 ## 2. Conceitos Principais
+
+
 Para dominar a integração, é preciso entender os pilares fundamentais:
 
-CRM como Capacidade Organizacional: É a combinação de sistemas, processos e pessoas para criar e manter relacionamentos lucrativos
-.
-Automação de Marketing: O uso de algoritmos para executar tarefas repetitivas (como envio de e-mails e gestão de leads), permitindo que a equipe foque em atividades estratégicas
-.
-As Quatro Formas de CRM:
-Estratégico: Foca no desenvolvimento de uma cultura centrada no cliente
-.
-Operacional: Automação dos processos que "encaram" o cliente, incluindo marketing e vendas
-.
-Analítico: Transformação de dados brutos em insights para prever tendências e comportamentos
-.
-Colaborativo: Promove a troca de informações em tempo real entre diferentes departamentos da empresa
-.
-Modelo SaaS (Software as a Service): Entrega de softwares via nuvem por assinatura, eliminando a necessidade de servidores locais e manutenção complexa
+- CRM como Capacidade Organizacional: É a combinação de sistemas, processos e pessoas para criar e manter relacionamentos lucrativos.
+
+
+- Automação de Marketing: O uso de algoritmos para executar tarefas repetitivas (como envio de e-mails e gestão de leads), permitindo que a equipe foque em atividades estratégicas.
+
+
+
+| As quatro formas de CRM   | Descrição                                                                 |
+|-----------------|---------------------------------------------------------------------------|
+| Estratégico     | Foca no desenvolvimento de uma cultura centrada no cliente               |
+| Operacional     | Automação dos processos que "encaram" o cliente, incluindo marketing e vendas |
+| Analítico       | Transformação de dados brutos em insights para prever tendências e comportamentos |
+| Colaborativo    | Promove a troca de informações em tempo real entre diferentes departamentos da empresa |
+
+
+- Modelo SaaS (Software as a Service): Entrega de softwares via nuvem por assinatura, eliminando a necessidade de servidores locais e manutenção complexa.
+
+
+
+--------------------------------------------------------------------------------
+## 3. Explicação do Tema
+
+
+A integração entre CRM e Automação de Marketing cria uma "única fonte da verdade" sobre o cliente. Enquanto a automação de marketing foca no Topo e Meio do Funil, atraindo e educando o lead através de nutrição personalizada, o CRM gerencia o Fundo do Funil e o pós-venda.
+
+
+
+Essa união permite o uso de dados para o Marketing de Segmento de Um, onde a personalização ocorre em nível individual e granular. O fluxo funciona assim: a automação captura e qualifica o lead (via Lead Scoring), enviando-o para o CRM apenas quando ele está "quente", o que aumenta a produtividade dos vendedores e reduz o ciclo de vendas
 .
 
 --------------------------------------------------------------------------------
-3. Explicação do Tema
-A integração entre CRM e Automação de Marketing cria uma "única fonte da verdade" sobre o cliente
-. Enquanto a automação de marketing foca no Topo e Meio do Funil, atraindo e educando o lead através de nutrição personalizada, o CRM gerencia o Fundo do Funil e o pós-venda
-.
-Essa união permite o uso de dados para o Marketing de Segmento de Um, onde a personalização ocorre em nível individual e granular
-. O fluxo funciona assim: a automação captura e qualifica o lead (via Lead Scoring), enviando-o para o CRM apenas quando ele está "quente", o que aumenta a produtividade dos vendedores e reduz o ciclo de vendas
-.
+
+## 4. Exemplos Práticos
+
+- **Roche (Vendas):** Implementou um CRM operacional para centralizar dados dispersos de médicos e clínicas, melhorando a assertividade da força de vendas
+
+
+- **Mercedes-Benz (Serviço):** Utiliza automação e realidade mista para que técnicos de campo recebam ajuda remota em tempo real, agilizando diagnósticos
+
+
+- **Disney (Experiência):** Usa sensores e IoT (MagicBands) para rastrear movimentos e antecipar necessidades dos visitantes, oferecendo serviços personalizados antes mesmo do pedido
+
+
+- **Target (Preditivo):** Utilizou algoritmos para prever a gravidez de clientes com base em mudanças sutis nos padrões de compra, enviando cupons contextuais relevantes
+
+<table>
+<tr>
+<td><strong>🧠 Roche</strong><br>Dados centralizados → mais assertividade</td>
+<td><strong>⚙️ Mercedes-Benz</strong><br>Diagnóstico remoto em tempo real</td>
+</tr>
+<tr>
+<td><strong>🎢 Disney</strong><br>Antecipação com IoT</td>
+<td><strong>📊 Target</strong><br>Previsão com dados</td>
+</tr>
+</table>
 
 --------------------------------------------------------------------------------
-4. Exemplos Práticos
-Roche (Vendas): Implementou um CRM operacional para centralizar dados dispersos de médicos e clínicas, melhorando a assertividade da força de vendas
-.
-Mercedes-Benz (Serviço): Utiliza automação e realidade mista para que técnicos de campo recebam ajuda remota em tempo real, agilizando diagnósticos
-.
-Disney (Experiência): Usa sensores e IoT (MagicBands) para rastrear movimentos e antecipar necessidades dos visitantes, oferecendo serviços personalizados antes mesmo do pedido
-.
-Target (Preditivo): Utilizou algoritmos para prever a gravidez de clientes com base em mudanças sutis nos padrões de compra, enviando cupons contextuais relevantes
-.
+## 5. Erros Comuns e Soluções
+
+| Erro comum   | Solução                                                                 |
+|-----------------|---------------------------------------------------------------------------|
+| CRM visto apenas como TI: Focar apenas no software e ignorar a estratégia     | Tratar o CRM como uma filosofia de negócio e cultura estratégica               |
+| Silos Departamentais: Marketing e Vendas não compartilham dados     | Implementar o CRM Colaborativo e alinhar KPIs entre as áreas |
+| Excesso de Automação: Substituir totalmente o toque humano por máquinas       | Usar o "Marketing Aumentado": a máquina faz o repetitivo, o humano entrega empatia e sabedoria |
+| Ignorar o Pós-Venda: Focar apenas no funil interno de conversão e esquecer a jornada de retenção    | Integrar fluxos de sucesso do cliente e apologia após a primeira compra |
+
 
 --------------------------------------------------------------------------------
-5. Erros Comuns e Soluções
-Erro Comum
-Solução Recomendada
-CRM visto apenas como TI: Focar apenas no software e ignorar a estratégia
-.
-Tratar o CRM como uma filosofia de negócio e cultura estratégica
-.
-Silos Departamentais: Marketing e Vendas não compartilham dados
-.
-Implementar o CRM Colaborativo e alinhar KPIs entre as áreas
-.
-Excesso de Automação: Substituir totalmente o toque humano por máquinas
-.
-Usar o "Marketing Aumentado": a máquina faz o repetitivo, o humano entrega empatia e sabedoria
-.
-Ignorar o Pós-Venda: Focar apenas no funil interno de conversão e esquecer a jornada de retenção
-.
-Integrar fluxos de sucesso do cliente e apologia após a primeira compra
-.
+## 6. Conclusão
+
+A convergência tecnológica para o Marketing 5.0 exige que as empresas integrem perfeitamente as capacidades humanas e as ferramentas digitais. A tecnologia deve estar a serviço da estratégia para criar experiências isentas de atrito (CX), transformando dados em valor real tanto para a empresa quanto para o consumidor.
 
 --------------------------------------------------------------------------------
-6. Conclusão
-A convergência tecnológica para o Marketing 5.0 exige que as empresas integrem perfeitamente as capacidades humanas e as ferramentas digitais
-. A tecnologia deve estar a serviço da estratégia para criar experiências isentas de atrito (CX), transformando dados em valor real tanto para a empresa quanto para o consumidor
-.
 
---------------------------------------------------------------------------------
-7. Resumo Final
-CRM é estratégia + software para gerenciar o ciclo de vida do cliente
-.
-SaaS é o modelo de entrega moderno (nuvem, assinatura, escalável)
-.
-A integração permite Lead Scoring e Lead Tracking precisos
-.
-Modelos Preditivos (AI) antecipam o Churn e sugerem a "Próxima Melhor Oferta"
-.
-Principais Plataformas: Salesforce (escalabilidade), Zoho (custo-benefício), HubSpot (marketing), RD Station (mercado brasileiro)
-.
-O sucesso depende da liderança e cultura, não apenas da ferramenta
+## 7. Resumo Final
+
+> CRM é estratégia + software para gerenciar o ciclo de vida do cliente.
+
+
+> SaaS é o modelo de entrega moderno (nuvem, assinatura, escalável).
+
+
+> A integração permite Lead Scoring e Lead Tracking precisos.
+
+
+> Modelos Preditivos (AI) antecipam o Churn e sugerem a "Próxima Melhor Oferta".
+
+
+> Principais Plataformas: Salesforce (escalabilidade), Zoho (custo-benefício), HubSpot (marketing), RD Station (mercado brasileiro).
+
+### O sucesso depende da liderança e cultura, não apenas da ferramenta.
+
+---------------
+
+## Glossário Estratégico de CRM
+
+### 🧠 Estratégia & Cultura
+
+<table>
+<tr>
+<td width="50%">
+
+<strong>CRM Estratégico</strong><br>
+Cultura organizacional orientada ao cliente para sustentar relacionamentos lucrativos  
+
+</td>
+<td width="50%">
+
+<strong>Customer Centricity</strong><br>
+Todas as decisões são guiadas pelo valor gerado ao cliente  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>CRM Colaborativo</strong><br>
+Integração entre Vendas, Marketing e Suporte para compartilhar dados  
+
+</td>
+<td>
+
+<strong>Marketing 5.0</strong><br>
+Tecnologia aplicada para simular comportamento humano na jornada  
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Automação & Gestão de Demanda
+
+<table>
+<tr>
+<td>
+
+<strong>Lead Scoring</strong><br>
+Pontuação automática que indica o momento ideal de abordagem  
+
+</td>
+<td>
+
+<strong>Lead Nurturing</strong><br>
+Nutrição de leads com conteúdo ao longo do funil  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Workflow Automation</strong><br>
+Execução automática de tarefas repetitivas  
+
+</td>
+<td>
+
+<strong>CPQ</strong><br>
+Geração automatizada de propostas e orçamentos  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 Experiência & Jornada do Cliente
+
+<table>
+<tr>
+<td>
+
+<strong>Customer Experience (CX)</strong><br>
+Percepção total gerada em todos os pontos de contato  
+
+</td>
+<td>
+
+<strong>Omnichannel</strong><br>
+Integração fluida entre canais online e offline  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Funil de Vendas</strong><br>
+ToFu, MoFu, BoFu → gestão da conversão  
+
+</td>
+<td>
+
+<strong>Lead Tracking</strong><br>
+Monitoramento do comportamento do usuário  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Inteligência de Dados & Tendências
+
+<table>
+<tr>
+<td>
+
+<strong>Marketing Preditivo</strong><br>
+Uso de IA para antecipar comportamentos  
+
+</td>
+<td>
+
+<strong>SaaS</strong><br>
+Software em nuvem com acesso escalável  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Big Data</strong><br>
+Grande volume de dados para análise estratégica  
+
+</td>
+<td>
+
+<strong>NBO (Next Best Offer)</strong><br>
+Recomendação da melhor oferta para o cliente  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Métricas & Performance
+
+<table>
+<tr>
+<td>
+
+<strong>LTV (Customer Lifetime Value)</strong><br>
+Valor total gerado por um cliente ao longo do tempo  
+
+</td>
+<td>
+
+<strong>Churn Rate</strong><br>
+Taxa de cancelamento ou perda de clientes  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>ROI</strong><br>
+Retorno financeiro sobre investimento  
+
+</td>
+<td></td>
+</tr>
+</table>
+
+---
 
